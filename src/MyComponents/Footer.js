@@ -13,5 +13,3 @@ return(
         <p className="text-center">   all copyright &copy;  reserve by Anendra Sengar</p> 
     </footer>);
 }
-
- 
